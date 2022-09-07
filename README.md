@@ -1,9 +1,14 @@
 # NLP-Tweets-with-RNN-LSTM-and-GRU-
 Simple RNN model notebook
 
-The Kaggle competition page can be found here: https://www.kaggle.com/competitions/nlp-getting-started
+The Kaggle competition page can be found here: 
+https://www.kaggle.com/competitions/nlp-getting-started
 
-The data can be found here: https://www.kaggle.com/competitions/nlp-getting-started/data
+The data can be found here: 
+https://www.kaggle.com/competitions/nlp-getting-started/data
+
+The Kaggle notebook which this repository is based from is here:
+https://www.kaggle.com/code/mattison/nlp-with-disaster-tweets
 
 # NLP with Disaster Tweets using RNN Techniques
 *A machine learning process* 
